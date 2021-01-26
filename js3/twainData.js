@@ -2,601 +2,601 @@ const twainData = [
   {
     roomNumber: 00,
     occupants: 4,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 13, 15, 16, 29, 41)
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 17, 36, 38, 0)
   },
   {
     roomNumber: 01,
-    occupants: 2,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 9, 50, 50, 10)
+    occupants: 3,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 18, 9, 25, 22)
   },
   {
     roomNumber: 02,
-    occupants: 3,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 22, 19, 52, 7)
+    occupants: 2,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 22, 34, 26, 58)
   },
   {
     roomNumber: 03,
     occupants: 2,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 13, 7, 47, 54, 35)
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 31, 7, 17, 50, 58)
   },
   {
     roomNumber: 04,
     occupants: 1,
     residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 23, 41, 35, 55)
+    lastPowerSpike: new Date(2021, 0, 31, 12, 23, 24, 35)
   },
   {
     roomNumber: 05,
-    occupants: 4,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 18, 58, 48, 35)
+    occupants: 3,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 31, 14, 33, 31, 3)
   },
   {
     roomNumber: 06,
-    occupants: 0,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 13, 11, 28, 31, 18)
+    occupants: 5,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 1, 1, 23, 59, 32, 57)
   },
   {
     roomNumber: 07,
-    occupants: 3,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 15, 13, 20, 54, 16)
+    occupants: 1,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 5, 50, 17, 51)
   },
   {
     roomNumber: 08,
     occupants: 4,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 19, 13, 54, 40)
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 30, 14, 57, 5, 26)
   },
   {
     roomNumber: 09,
-    occupants: 1,
+    occupants: 3,
     residents: 2,
-    lastPowerSpike: new Date(2020, 8, 12, 11, 38, 2, 26)
+    lastPowerSpike: new Date(2021, 1, 1, 22, 26, 24, 23)
   },
   {
     roomNumber: 10,
-    occupants: 0,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 12, 22, 52, 11, 1)
+    occupants: 3,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 17, 48, 13, 20)
   },
   {
     roomNumber: 11,
-    occupants: 5,
+    occupants: 0,
     residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 19, 27, 18, 56)
+    lastPowerSpike: new Date(2021, 0, 31, 21, 4, 17, 18)
   },
   {
     roomNumber: 12,
-    occupants: 1,
+    occupants: 3,
     residents: 1,
-    lastPowerSpike: new Date(2020, 8, 13, 15, 42, 10, 19)
+    lastPowerSpike: new Date(2021, 1, 1, 18, 31, 5, 20)
   },
   {
     roomNumber: 13,
     occupants: 6,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 16, 55, 57, 1)
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 20, 31, 7, 38)
   },
   {
     roomNumber: 14,
-    occupants: 2,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 20, 46, 21, 26)
+    occupants: 5,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 22, 22, 49, 16)
   },
   {
     roomNumber: 15,
-    occupants: 4,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 23, 56, 5, 32)
+    occupants: 1,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 0, 31, 3, 59, 2, 29)
   },
   {
     roomNumber: 16,
-    occupants: 3,
+    occupants: 7,
     residents: 4,
-    lastPowerSpike: new Date(2020, 8, 12, 21, 3, 33, 26)
+    lastPowerSpike: new Date(2021, 1, 1, 17, 42, 13, 56)
   },
   {
     roomNumber: 17,
-    occupants: 3,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 17, 33, 53, 48)
+    occupants: 6,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 17, 23, 7, 54)
   },
   {
     roomNumber: 18,
-    occupants: 6,
+    occupants: 5,
     residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 22, 43, 21, 29)
+    lastPowerSpike: new Date(2021, 1, 1, 20, 45, 16, 38)
   },
   {
     roomNumber: 19,
-    occupants: 6,
+    occupants: 1,
     residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 19, 45, 58, 25)
+    lastPowerSpike: new Date(2021, 0, 30, 15, 46, 22, 34)
   },
   {
     roomNumber: 20,
-    occupants: 6,
+    occupants: 5,
     residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 17, 27, 23, 20)
+    lastPowerSpike: new Date(2021, 1, 1, 20, 18, 48, 46)
   },
   {
     roomNumber: 21,
-    occupants: 6,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 22, 56, 46, 38)
+    occupants: 3,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 20, 58, 30, 20)
   },
   {
     roomNumber: 22,
     occupants: 5,
     residents: 1,
-    lastPowerSpike: new Date(2020, 8, 15, 5, 24, 28, 8)
+    lastPowerSpike: new Date(2021, 1, 2, 5, 24, 28, 8)
   },
   {
     roomNumber: 23,
     occupants: 0,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 22, 13, 34, 19)
+    residents: 2,
+    lastPowerSpike: new Date(2021, 0, 31, 8, 53, 47, 45)
   },
   {
     roomNumber: 24,
     occupants: 3,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 16, 4, 44, 48)
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 30, 5, 27, 31, 19)
   },
   {
     roomNumber: 25,
-    occupants: 4,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 23, 22, 13, 16)
+    occupants: 5,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 20, 2, 8, 2)
   },
   {
     roomNumber: 26,
-    occupants: 3,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 11, 48, 12, 41)
+    occupants: 5,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 17, 20, 27, 55)
   },
   {
     roomNumber: 27,
     occupants: 0,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 13, 9, 17, 30, 13)
+    residents: 1,
+    lastPowerSpike: new Date(2021, 0, 29, 11, 28, 26, 26)
   },
   {
     roomNumber: 28,
-    occupants: 2,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 19, 59, 27, 39)
+    occupants: 1,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 0, 29, 18, 28, 30, 0)
   },
   {
     roomNumber: 29,
-    occupants: 0,
+    occupants: 4,
     residents: 2,
-    lastPowerSpike: new Date(2020, 8, 13, 8, 55, 15, 1)
+    lastPowerSpike: new Date(2021, 1, 1, 16, 2, 16, 11)
   },
   {
     roomNumber: 30,
     occupants: 0,
     residents: 3,
-    lastPowerSpike: new Date(2020, 8, 13, 21, 45, 24, 47)
+    lastPowerSpike: new Date(2021, 0, 29, 7, 18, 15, 53)
   },
   {
     roomNumber: 31,
     occupants: 1,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 13, 18, 30, 38, 59)
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 31, 13, 55, 38, 50)
   },
   {
     roomNumber: 32,
-    occupants: 2,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 17, 24, 31, 20)
+    occupants: 0,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 0, 31, 12, 5, 50, 45)
   },
   {
     roomNumber: 33,
-    occupants: 3,
+    occupants: 4,
     residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 21, 47, 6, 32)
+    lastPowerSpike: new Date(2021, 1, 1, 19, 5, 41, 19)
   },
   {
     roomNumber: 34,
-    occupants: 1,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 12, 15, 5, 0, 39)
+    occupants: 4,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 16, 27, 38, 58)
   },
   {
     roomNumber: 35,
-    occupants: 4,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 21, 29, 49, 48)
+    occupants: 2,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 19, 9, 38, 36)
   },
   {
     roomNumber: 36,
-    occupants: 2,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 4, 24, 25, 34)
+    occupants: 4,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 29, 9, 24, 29, 8)
   },
   {
     roomNumber: 37,
-    occupants: 2,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 5, 32, 48, 3)
+    occupants: 3,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 0, 30, 3, 16, 59, 0)
   },
   {
     roomNumber: 38,
-    occupants: 4,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 22, 39, 55, 56)
+    occupants: 3,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 1, 1, 22, 37, 47, 18)
   },
   {
     roomNumber: 39,
-    occupants: 1,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 12, 12, 20, 59, 7)
+    occupants: 4,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 1, 1, 17, 9, 22, 14)
   },
   {
     roomNumber: 40,
-    occupants: 1,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 13, 16, 17, 53, 28)
+    occupants: 4,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 21, 29, 42, 33)
   },
   {
     roomNumber: 41,
-    occupants: 3,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 12, 17, 47, 49, 5)
+    occupants: 5,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 1, 1, 22, 24, 46, 35)
   },
   {
     roomNumber: 42,
-    occupants: 0,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 13, 0, 58, 44, 23)
+    occupants: 3,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 19, 45, 16, 7)
   },
   {
     roomNumber: 43,
-    occupants: 1,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 3, 14, 12, 19)
+    occupants: 3,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 18, 24, 39, 25)
   },
   {
     roomNumber: 44,
-    occupants: 3,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 13, 16, 17, 57)
+    occupants: 2,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 0, 30, 3, 28, 6, 34)
   },
   {
     roomNumber: 45,
-    occupants: 3,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 23, 55, 26, 37)
+    occupants: 2,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 19, 1, 8, 7)
   },
   {
     roomNumber: 46,
-    occupants: 5,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 22, 36, 21, 1)
+    occupants: 6,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 18, 16, 31, 29)
   },
   {
     roomNumber: 47,
-    occupants: 7,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 20, 30, 5, 38)
+    occupants: 5,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 18, 46, 4, 12)
   },
   {
     roomNumber: 48,
-    occupants: 3,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 12, 4, 49, 19, 49)
+    occupants: 1,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 0, 31, 9, 53, 25, 54)
   },
   {
     roomNumber: 49,
-    occupants: 3,
+    occupants: 1,
     residents: 3,
-    lastPowerSpike: new Date(2020, 8, 13, 13, 17, 39, 15)
+    lastPowerSpike: new Date(2021, 0, 31, 23, 40, 17, 20)
   },
   {
     roomNumber: 50,
-    occupants: 0,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 12, 15, 7, 45, 20)
+    occupants: 3,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 20, 46, 3, 43)
   },
   {
     roomNumber: 51,
-    occupants: 4,
+    occupants: 2,
     residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 19, 25, 1, 56)
+    lastPowerSpike: new Date(2021, 0, 30, 10, 41, 25, 51)
   },
   {
     roomNumber: 52,
-    occupants: 3,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 12, 20, 45, 54, 44)
+    occupants: 2,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 1, 1, 3, 39, 36, 24)
   },
   {
     roomNumber: 53,
-    occupants: 4,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 20, 48, 50, 51)
+    occupants: 5,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 17, 8, 57, 17)
   },
   {
     roomNumber: 54,
-    occupants: 4,
+    occupants: 5,
     residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 19, 1, 16, 2)
+    lastPowerSpike: new Date(2021, 1, 1, 21, 7, 23, 41)
   },
   {
     roomNumber: 55,
-    occupants: 3,
+    occupants: 5,
     residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 23, 14, 14, 7)
+    lastPowerSpike: new Date(2021, 1, 1, 20, 50, 44, 50)
   },
   {
     roomNumber: 56,
-    occupants: 2,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 15, 18, 53, 50, 9)
+    occupants: 3,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 18, 0, 51, 30)
   },
   {
     roomNumber: 57,
-    occupants: 0,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 13, 13, 33, 24, 51)
+    occupants: 5,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 16, 59, 33, 15)
   },
   {
     roomNumber: 58,
-    occupants: 4,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 18, 11, 58, 23)
+    occupants: 1,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 0, 31, 3, 31, 30, 32)
   },
   {
     roomNumber: 59,
-    occupants: 3,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 22, 47, 14, 42)
+    occupants: 1,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 31, 2, 26, 44, 30)
   },
   {
     roomNumber: 60,
     occupants: 0,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 12, 20, 59, 58, 4)
+    residents: 1,
+    lastPowerSpike: new Date(2021, 0, 29, 20, 8, 29, 33)
   },
   {
     roomNumber: 61,
-    occupants: 1,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 13, 21, 50, 53, 16)
+    occupants: 4,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 19, 40, 59, 56)
   },
   {
     roomNumber: 62,
-    occupants: 0,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 13, 7, 9, 24, 55)
+    occupants: 1,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 0, 31, 3, 40, 24, 18)
   },
   {
     roomNumber: 63,
-    occupants: 0,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 14, 46, 55, 23)
+    occupants: 4,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 16, 35, 28, 37)
   },
   {
     roomNumber: 64,
-    occupants: 2,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 13, 7, 18, 47, 8)
+    occupants: 5,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 16, 5, 49, 45)
   },
   {
     roomNumber: 65,
-    occupants: 3,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 15, 5, 36, 23, 30)
+    occupants: 0,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 18, 8, 37, 28)
   },
   {
     roomNumber: 66,
-    occupants: 2,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 19, 45, 55, 24)
+    occupants: 4,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 23, 44, 14, 50)
   },
   {
     roomNumber: 67,
     occupants: 4,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 21, 43, 18, 33)
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 23, 49, 58, 18)
   },
   {
     roomNumber: 68,
-    occupants: 4,
+    occupants: 1,
     residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 19, 28, 37, 13)
+    lastPowerSpike: new Date(2021, 0, 30, 10, 59, 31, 16)
   },
   {
     roomNumber: 69,
-    occupants: 3,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 12, 17, 23, 28, 59)
+    occupants: 2,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 18, 32, 5, 45)
   },
   {
     roomNumber: 70,
-    occupants: 3,
+    occupants: 2,
     residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 21, 47, 39, 44)
+    lastPowerSpike: new Date(2021, 0, 29, 22, 34, 35, 44)
   },
   {
     roomNumber: 71,
-    occupants: 2,
+    occupants: 4,
     residents: 3,
-    lastPowerSpike: new Date(2020, 8, 12, 0, 58, 28, 48)
+    lastPowerSpike: new Date(2021, 1, 1, 19, 58, 53, 47)
   },
   {
     roomNumber: 72,
-    occupants: 3,
+    occupants: 0,
     residents: 3,
-    lastPowerSpike: new Date(2020, 8, 12, 9, 40, 37, 1)
+    lastPowerSpike: new Date(2021, 0, 31, 20, 29, 11, 26)
   },
   {
     roomNumber: 73,
-    occupants: 7,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 22, 11, 20, 23)
+    occupants: 0,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 0, 29, 19, 56, 52, 47)
   },
   {
     roomNumber: 74,
-    occupants: 3,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 12, 7, 41, 34, 47)
+    occupants: 5,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 23, 5, 54, 59)
   },
   {
     roomNumber: 75,
-    occupants: 3,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 17, 22, 13, 23)
+    occupants: 1,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 0, 30, 12, 48, 2, 20)
   },
   {
     roomNumber: 76,
-    occupants: 3,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 15, 16, 35, 9, 35)
+    occupants: 2,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 29, 4, 46, 34, 43)
   },
   {
     roomNumber: 77,
-    occupants: 5,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 17, 26, 3, 53)
+    occupants: 1,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 13, 55, 34, 40)
   },
   {
     roomNumber: 78,
-    occupants: 0,
+    occupants: 3,
     residents: 1,
-    lastPowerSpike: new Date(2020, 8, 12, 12, 37, 14, 48)
+    lastPowerSpike: new Date(2021, 1, 1, 18, 3, 41, 3)
   },
   {
     roomNumber: 79,
-    occupants: 2,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 15, 23, 47, 3, 23)
+    occupants: 4,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 31, 23, 57, 14, 16)
   },
   {
     roomNumber: 80,
-    occupants: 1,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 15, 11, 20, 40, 43)
+    occupants: 0,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 0, 31, 8, 11, 58, 36)
   },
   {
     roomNumber: 81,
-    occupants: 2,
+    occupants: 3,
     residents: 4,
-    lastPowerSpike: new Date(2020, 8, 12, 5, 4, 46, 41)
+    lastPowerSpike: new Date(2021, 1, 1, 8, 42, 32, 8)
   },
   {
     roomNumber: 82,
-    occupants: 5,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 20, 15, 25, 30)
+    occupants: 3,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 23, 8, 50, 3)
   },
   {
     roomNumber: 83,
-    occupants: 1,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 12, 14, 12, 2, 36)
+    occupants: 2,
+    residents: 2,
+    lastPowerSpike: new Date(2021, 1, 1, 17, 10, 23, 40)
   },
   {
     roomNumber: 84,
-    occupants: 5,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 16, 14, 38, 50)
+    occupants: 3,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 0, 29, 19, 51, 20, 15)
   },
   {
     roomNumber: 85,
-    occupants: 0,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 12, 23, 50, 34, 52)
+    occupants: 6,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 22, 7, 33, 10)
   },
   {
     roomNumber: 86,
-    occupants: 2,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 23, 34, 40, 16)
+    occupants: 1,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 0, 30, 5, 39, 1, 52)
   },
   {
     roomNumber: 87,
-    occupants: 1,
+    occupants: 5,
     residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 8, 2, 37, 7)
+    lastPowerSpike: new Date(2021, 1, 1, 21, 50, 57, 40)
   },
   {
     roomNumber: 88,
-    occupants: 5,
-    residents: 3,
-    lastPowerSpike: new Date(2020, 8, 14, 18, 14, 10, 14)
+    occupants: 4,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 0, 29, 12, 14, 33, 23)
   },
   {
     roomNumber: 89,
     occupants: 3,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 13, 10, 0, 1, 46)
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 23, 25, 14, 57)
   },
   {
     roomNumber: 90,
-    occupants: 4,
-    residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 6, 4, 2, 37)
+    occupants: 3,
+    residents: 1,
+    lastPowerSpike: new Date(2021, 1, 1, 22, 33, 47, 20)
   },
   {
     roomNumber: 91,
-    occupants: 0,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 7, 20, 3, 59)
+    occupants: 5,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 21, 45, 25, 22)
   },
   {
     roomNumber: 92,
-    occupants: 3,
+    occupants: 1,
     residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 21, 43, 41, 52)
+    lastPowerSpike: new Date(2021, 1, 1, 13, 9, 35, 12)
   },
   {
     roomNumber: 93,
-    occupants: 3,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 18, 4, 29, 35)
+    occupants: 5,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 16, 37, 51, 17)
   },
   {
     roomNumber: 94,
-    occupants: 7,
+    occupants: 1,
     residents: 4,
-    lastPowerSpike: new Date(2020, 8, 14, 18, 3, 7, 44)
+    lastPowerSpike: new Date(2021, 0, 30, 7, 45, 47, 15)
   },
   {
     roomNumber: 95,
-    occupants: 0,
+    occupants: 7,
     residents: 4,
-    lastPowerSpike: new Date(2020, 8, 13, 19, 54, 6, 16)
+    lastPowerSpike: new Date(2021, 1, 1, 18, 41, 45, 20)
   },
   {
     roomNumber: 96,
-    occupants: 0,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 13, 3, 10, 56, 17)
+    occupants: 7,
+    residents: 4,
+    lastPowerSpike: new Date(2021, 1, 1, 18, 50, 42, 45)
   },
   {
     roomNumber: 97,
     occupants: 0,
     residents: 1,
-    lastPowerSpike: new Date(2020, 8, 14, 14, 43, 21, 49)
+    lastPowerSpike: new Date(2021, 0, 30, 1, 36, 13, 59)
   },
   {
     roomNumber: 98,
-    occupants: 0,
-    residents: 1,
-    lastPowerSpike: new Date(2020, 8, 15, 20, 36, 42, 9)
+    occupants: 4,
+    residents: 3,
+    lastPowerSpike: new Date(2021, 1, 1, 20, 33, 14, 22)
   },
   {
     roomNumber: 99,
     occupants: 5,
-    residents: 2,
-    lastPowerSpike: new Date(2020, 8, 14, 23, 46, 22, 29)
+    residents: 3,
+    lastPowerSpike: new Date(2021, 1, 1, 16, 51, 36, 21)
   },
 ]
